@@ -5,15 +5,9 @@
 <div align="center">
   <!-- Change your logo -->
   <a href="https://github.com//">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@/'s logo">
+    <img width="100%" src="https://www.epillars.ae/wp-content/uploads/2019/05/ePillars-logo-transparent.png" alt="@/'s logo">
   </a>
-  <br>
-  <a href="https://github.com///issues">
-    <img src="https://img.shields.io/github/issues//?color=0088ff&style=for-the-badge&logo=github" alt="/'s issues"/>
-  </a>
-  <a href="https://github.com///pulls">
-    <img src="https://img.shields.io/github/issues-pr//?color=0088ff&style=for-the-badge&logo=github"  alt="/'s pull requests"/>
-  </a>
+
 </div>
 
 ---
