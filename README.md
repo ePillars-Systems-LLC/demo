@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD032 MD033-->
 <!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🔥 **/**
+# 🔥 This is a demo repo
 
 <div align="center">
   <!-- Change your logo -->
@@ -20,19 +20,20 @@
 
 ## 🤔 **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
-
+* This is demo project.
 ---
 
 ## ⚡ **Installation**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* Step 1
+* Step 2
+* Step 3
 
 ---
 
 ## 🚀 **Usage**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* Open the demo URL and use
 
 ---
 
